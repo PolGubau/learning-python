@@ -55,7 +55,7 @@ def clear_screen():
     os.system("cls" if os.name == "nt" else "clear")
 
 def main():
-    N = 10
+    N = int(input("Enter board size: "))
     board = init_board(N)
     while True:
         clear_screen()
