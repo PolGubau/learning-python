@@ -33,4 +33,4 @@ while time <= 0:
     
 compound_interest = principle * (pow((1 + rate / 100), time))
 
-print(f"The compound interest is: {compound_interest:.2f}")
+print(f"The compound interest is: {compound_interest:.2f} €")
