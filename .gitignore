@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.coverage
+.venv/
+.mypy_cache/
+.vscode/
+.pytest_cache/
