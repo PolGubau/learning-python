@@ -15,5 +15,6 @@
 phone_number = "654-654-654"
 
 dashes = phone_number.count('-')
+
 print(dashes)
 
